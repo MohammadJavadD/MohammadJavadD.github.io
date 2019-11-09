@@ -26,7 +26,7 @@ var configs = (function () {
         rmdir_help: "Remove directory, this command will only work if the folders are empty.",
         touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
         sudo_help: "Execute a command as the superuser.",
-        welcome: "Welcome to my personal website! ;) \n My name is Mohammad Javad, I'm a Biomedical Engineer. \n Currently, I'm a Ph.D. student in biomedical Engineering in the University of Montreal. \n Here is my official website http://mjdarvishi.ir/ (Graphical version) \n In order to get started, feel free to either execute the 'help' command or use the more user-friendly green sidenav at your left. \n In order to skip text rolling, double click/touch anywhere. \n",
+        welcome: "Welcome to my personal website! ;) \n My name is Mohammad Javad, I'm a Biomedical Engineer. \n Currently, I'm a Ph.D. student in biomedical Engineering at the University of Montreal. \n Here is my official website http://mjdarvishi.ir/ (Graphical version) \n In order to get started, feel free to either execute the 'help' command or use the more user-friendly green sidenav at your left. \n In order to skip text rolling, double click/touch anywhere. \n",
         internet_explorer_warning: "NOTE: I see you're using internet explorer, this website won't work properly.",
         welcome_file_name: "welcome_message.txt",
         invalid_command_message: "<value>: command not found.",
