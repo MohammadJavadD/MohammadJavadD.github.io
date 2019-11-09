@@ -71,7 +71,7 @@ var files = (function () {
         "contact.txt": "Contact Me: \n My website: http://mjdarvishi.ir/ \n LinkedIn: https://www.linkedin.com/in/mjdarvishi/ \n GitHub: https://github.com/MohammadJavadD",
         "GitHub.txt" : "https://github.com/MohammadJavadD",
         "LinkedIn.txt" : "https://www.linkedin.com/in/mjdarvishi/",
-        "GUI_version.txt" : "http://mjdarvishi.ir"
+        "GUI_version.txt" : "http://mjdarvishi.ir",
         "welcome_message.txt" : "Welcome to my personal website! ;) \n My name is Mohammad Javad, I'm a Biomedical Engineer. \n Currently, I'm a Ph.D. student in biomedical Engineering at the University of Montreal. \n Here is my official website http://mjdarvishi.ir/ (Graphical version) \n In order to get started, feel free to either execute the 'help' command or use the more user-friendly green sidenav at your left. \n In order to skip text rolling, double click/touch anywhere."
     };
     return {
