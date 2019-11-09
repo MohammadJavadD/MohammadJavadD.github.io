@@ -73,7 +73,7 @@ var files = (function () {
         "contact.txt": "Contact Me: \n My website: http://mjdarvishi.ir/ \n LinkedIn: https://www.linkedin.com/in/mjdarvishi/ ",
         "GitHub.txt: https://github.com/MohammadJavadD",
         "LinkedIn.txt": "https://www.linkedin.com/in/mjdarvishi/",
-        "GUI_version.txt": "http://mjdarvishi.ir"
+        "GUI_version.txt": "http://mjdarvishi.ir",
     };
     return {
         getInstance: function (options) {
