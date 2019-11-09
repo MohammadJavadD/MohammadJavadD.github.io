@@ -68,7 +68,10 @@ var files = (function () {
     };
     Singleton.defaultOptions = {
         "about.txt": "Mohammad Javad is a passionate Ph.D. student in biomedical engineering at the University of Montreal. \n Always looking for new challenges in brain/computer technology. \n He has been working as a Signal Processing Engineer at National Brain Mapping Laboratory (NBML). \n He has graduated with an MSc in Biomedical Engineering (2017) and with a BS in Electrical Engineering (2014). \n His research interests are Artificial Intelligence in Medicine and Neurotechnologies.",
-        
+        "contact.txt": "Contact Me: \n My website: http://mjdarvishi.ir/ \n LinkedIn: https://www.linkedin.com/in/mjdarvishi/",
+        "GitHub.txt" : "https://github.com/MohammadJavadD",
+        "LinkedIn.txt" : "https://www.linkedin.com/in/mjdarvishi/",
+        "GUI_version.txt" : "http://mjdarvishi.ir"
     };
     return {
         getInstance: function (options) {
