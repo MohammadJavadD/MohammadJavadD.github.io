@@ -1,7 +1,9 @@
 "use strict";
+
 /**
  * Configs
  */
+
 var configs = (function () {
     var instance;
     var Singleton = function (options) {
