@@ -1,5 +1,5 @@
 "use strict";
-
+/**
  * Configs
  */
 var configs = (function () {
